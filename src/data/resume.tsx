@@ -2,11 +2,11 @@ import { Icons } from "@/components/icons";
 import { HomeIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Mateus Fernandes",
+  name: "Mateus Fernandes - Developer  ",
   initials: "MF",
-  url: "https://dillion.io",
+  url: "https://mfcurriculum.vercel.app/",
   location: "Brasil Salvador-Bahia",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  locationLink: "",
   description:
     "I am a software developer focused on Frontend, creating modern and functional interfaces.",
   summary:
@@ -79,6 +79,8 @@ export const DATA = {
       logoUrl: "/senai.jpg",
       start: "2023",
       end: "2024",
+      description:
+        "My journey in the Technical Course in Systems Development at Senai Cimatec was my first contact with programming, where I learned C, JavaScript, Node.js, HTML, CSS, MySQL, and Figma. I developed both technical and interpersonal skills, such as teamwork, communication, and modeling, as well as the ability to create complete projects, building a solid foundation for my career in IT.",
     },
   ],
 
@@ -96,7 +98,7 @@ export const DATA = {
         "React.js",
         "Typescript",
         "TailwindCSS",
-        "MySLQ",
+        "MySQL",
         "Firebase",
       ],
       links: [
@@ -119,7 +121,7 @@ export const DATA = {
     {
       title: "CineVerse",
       href: "https://cineverseofc.vercel.app/",
-      dates: "Dez 2024",
+      dates: "Dec 2024",
       active: true,
       description:
         "Cineverse is an application that consumes data from The Movie Database (TMDb) API. The project provides an interactive experience for users, allowing them to explore information about movies and TV shows.",
@@ -148,7 +150,7 @@ export const DATA = {
     {
       title: "Barber Shop",
       href: "hhttps://barberanavalha.vercel.app",
-      dates: "Dez 2024",
+      dates: "Dec 2024",
       active: true,
       description:
         "This is a modern and visually appealing landing page designed for a barbershop. It features all the essential information customers need, including services offered, pricing, contact details, and business hours. The page is tailored to provide an engaging and seamless user experience, showcasing the barbershop's style and professionalism.",
